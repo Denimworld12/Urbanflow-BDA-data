@@ -1,0 +1,44 @@
+[
+  {
+    "experiment": "scale",
+    "rows": 243506519,
+    "month_partitions": 12,
+    "note": "Context for every timing below. Benchmarks on small data measure overhead, not throughput."
+  },
+  {
+    "experiment": "format",
+    "parquet_s": 5.119,
+    "csv_s": 293.016,
+    "speedup": 57.24,
+    "note": "Parquet reads only the columns the query touches; CSV must decode every byte of every row."
+  },
+  {
+    "experiment": "partitioning",
+    "partitioned_s": 0.278,
+    "flat_s": 0.677,
+    "speedup": 2.44,
+    "queried": "2025-11",
+    "note": "Partition pruning lets Spark skip whole folders using the directory names, before opening any file."
+  },
+  {
+    "experiment": "join",
+    "broadcast_s": 1.218,
+    "sort_merge_s": 17.704,
+    "speedup": 14.54,
+    "note": "Broadcasting the 265-row zone table avoids shuffling 240M trip rows across partitions. Run .explain() on both to show BroadcastHashJoin vs SortMergeJoin."
+  },
+  {
+    "experiment": "cores",
+    "seconds": {
+      "1": 7.514,
+      "2": 4.367,
+      "4": 1.985
+    },
+    "speedup_vs_1": {
+      "1": 1.0,
+      "2": 1.72,
+      "4": 3.79
+    },
+    "note": "Speedup is sub-linear: coordination overhead, shuffle writes and a single shared disk mean N cores never give N times the throughput. Amdahl's law in one chart."
+  }
+]

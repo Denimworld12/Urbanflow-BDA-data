@@ -1,0 +1,38 @@
+{
+  "baseline": {
+    "method": "distance / mean training speed",
+    "rmse_min": 16.443,
+    "mae_min": 8.976
+  },
+  "gbt": {
+    "rmse_min": 7.097,
+    "mae_min": 4.507,
+    "r2": 0.7647,
+    "max_iter": 30
+  },
+  "improvement_pct": 56.84,
+  "feature_importance": [
+    {
+      "feature": "trip_distance",
+      "importance": 0.6426
+    },
+    {
+      "feature": "pickup_hour",
+      "importance": 0.1714
+    },
+    {
+      "feature": "pickup_dow",
+      "importance": 0.0529
+    },
+    {
+      "feature": "do_borough_v",
+      "importance": 0.0136
+    },
+    {
+      "feature": "pu_borough_v",
+      "importance": 0.0105
+    }
+  ],
+  "train_rows": 194805228,
+  "test_rows": 48701291
+}

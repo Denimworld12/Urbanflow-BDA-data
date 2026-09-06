@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1788625063659,"sparkVersion":"4.2.0","uid":"OneHotEncoder_813458bad7cc","paramMap":{"inputCols":["pu_borough_i","do_borough_i"],"outputCols":["pu_borough_v","do_borough_v"]},"defaultParamMap":{"dropLast":true,"handleInvalid":"error","outputCol":"OneHotEncoder_813458bad7cc__output"}}
