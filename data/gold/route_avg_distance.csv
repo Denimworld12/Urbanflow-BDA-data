@@ -1,0 +1,56 @@
+"pu_borough","do_borough","avg_distance"
+"Brooklyn","Unknown",6.1
+"Staten Island","Queens",25.6
+"Manhattan","Staten Island",19.9
+"Bronx","Brooklyn",17.9
+"Bronx","Staten Island",30.6
+"Manhattan","Bronx",6.5
+"Manhattan","EWR",16.7
+"N/A","Brooklyn",15.7
+"Bronx","Manhattan",6.4
+"Manhattan","Queens",11.2
+"Staten Island","N/A",19.1
+"Brooklyn","Brooklyn",2.6
+"Brooklyn","EWR",18.7
+"Bronx","Queens",12.5
+"N/A","Manhattan",15.5
+"Staten Island","Unknown",5.8
+"Brooklyn","Manhattan",7
+"Queens","Bronx",12.3
+"Manhattan","Manhattan",2.6
+"Staten Island","Manhattan",19.8
+"Queens","Queens",3.5
+"Queens","Manhattan",10.5
+"Queens","Brooklyn",8.3
+"Manhattan","Brooklyn",7
+"Bronx","Bronx",2.8
+"Queens","Staten Island",25.2
+"Queens","N/A",19.1
+"Queens","Unknown",7.3
+"Staten Island","Brooklyn",11.8
+"N/A","N/A",5.4
+"N/A","EWR",16.6
+"Staten Island","EWR",13.9
+"Brooklyn","Bronx",17.9
+"Brooklyn","Queens",8.7
+"Staten Island","Staten Island",3.3
+"Manhattan","N/A",16.7
+"Staten Island","Bronx",30.6
+"N/A","Queens",5.7
+"Bronx","N/A",9.2
+"Brooklyn","N/A",22.1
+"Bronx","EWR",27.8
+"Queens","EWR",26.1
+"Brooklyn","Staten Island",12
+"Manhattan","Unknown",7.6
+"N/A","Bronx",4.1
+"Bronx","Unknown",4.8
+"N/A","Staten Island",12.9
+"EWR","EWR",1.1
+"EWR","N/A",5.9
+"N/A","Unknown",3.8
+"Unknown","Bronx",4
+"Unknown","Manhattan",7.6
+"Unknown","Staten Island",2.6
+"Unknown","Brooklyn",1.3
+"EWR","Brooklyn",16.3

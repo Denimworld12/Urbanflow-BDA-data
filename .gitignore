@@ -1,0 +1,3 @@
+# Full silver month CSVs from scripts/export_full_csv.py are ~3.5-4 GB each:
+# generate them locally, never commit them.
+data/curated/*_full.csv

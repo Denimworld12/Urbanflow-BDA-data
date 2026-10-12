@@ -1,0 +1,201 @@
+"pu_borough","pu_zone","do_borough","do_zone","trips","avg_fare","avg_duration_min"
+"Brooklyn","East New York","Brooklyn","East New York",848924,11.67,8.23
+"Queens","JFK Airport","N/A","Outside of NYC",815150,140.86,58.29
+"Queens","LaGuardia Airport","N/A","Outside of NYC",671697,138.76,50.86
+"Brooklyn","Canarsie","Brooklyn","Canarsie",527695,11.04,6.99
+"Brooklyn","Borough Park","Brooklyn","Borough Park",478278,12.34,9.47
+"Brooklyn","Crown Heights North","Brooklyn","Crown Heights North",395065,12.42,8.66
+"Brooklyn","Bay Ridge","Brooklyn","Bay Ridge",366845,11.46,6.61
+"Queens","Forest Hills","Queens","Forest Hills",338071,11.9,7.82
+"Queens","Jackson Heights","Queens","Jackson Heights",333607,11.46,8.25
+"Queens","Astoria","Queens","Astoria",330937,10.87,6.92
+"Queens","South Ozone Park","Queens","South Ozone Park",322495,10.78,6.75
+"Manhattan","Times Sq/Theatre District","N/A","Outside of NYC",291624,110.57,39.28
+"Queens","South Ozone Park","Queens","JFK Airport",277433,18.35,8.56
+"Brooklyn","Park Slope","Brooklyn","Park Slope",272471,12.71,7.51
+"Brooklyn","Bushwick South","Brooklyn","Bushwick South",263398,13.13,8.93
+"Manhattan","Midtown Center","N/A","Outside of NYC",244115,127.19,45.14
+"Brooklyn","Bushwick North","Brooklyn","Bushwick South",243128,12.45,8.33
+"Brooklyn","Williamsburg (North Side)","Brooklyn","Greenpoint",241392,14,8.54
+"Brooklyn","Bushwick South","Brooklyn","Bushwick North",235041,12.57,8.39
+"Brooklyn","Flatbush/Ditmas Park","Brooklyn","Flatbush/Ditmas Park",234868,11.84,8.35
+"Queens","Long Island City/Hunters Point","Queens","Long Island City/Hunters Point",233934,11.25,6.77
+"Manhattan","Central Harlem North","Manhattan","Central Harlem North",231715,11.75,7.49
+"Brooklyn","Greenpoint","Brooklyn","Williamsburg (North Side)",227619,14.25,9.16
+"Queens","Jamaica","Queens","Jamaica",224946,12.06,9.09
+"Queens","LaGuardia Airport","Manhattan","Times Sq/Theatre District",221480,97.03,42.49
+"Queens","Steinway","Queens","Steinway",220943,10.61,5.97
+"Queens","Elmhurst","Queens","Elmhurst",220390,11.29,8.15
+"Bronx","Woodlawn/Wakefield","N/A","Outside of NYC",220111,21.37,13.1
+"Brooklyn","Greenpoint","Brooklyn","Greenpoint",218383,12.36,7.03
+"Manhattan","Times Sq/Theatre District","Queens","LaGuardia Airport",214602,92.26,36.4
+"Queens","South Jamaica","Queens","Jamaica",214083,11.87,8.82
+"Manhattan","Clinton East","N/A","Outside of NYC",206859,82.64,31.78
+"Brooklyn","Brownsville","Brooklyn","Brownsville",200772,11.16,7.44
+"Manhattan","East Chelsea","N/A","Outside of NYC",200323,99.57,35.17
+"Queens","Astoria","Queens","Steinway",197547,13.59,9.76
+"Brooklyn","Prospect-Lefferts Gardens","Brooklyn","Prospect-Lefferts Gardens",194274,11.78,8.16
+"Queens","Far Rockaway","Queens","Far Rockaway",185767,10.91,6.76
+"Manhattan","Midtown South","N/A","Outside of NYC",181268,103.76,39.55
+"Queens","Steinway","Queens","Astoria",179447,13.77,9.99
+"Brooklyn","Stuyvesant Heights","Brooklyn","Crown Heights North",178061,13.99,10.17
+"Brooklyn","Williamsburg (North Side)","Brooklyn","Williamsburg (South Side)",176204,12.87,7.6
+"Brooklyn","Prospect-Lefferts Gardens","Brooklyn","Crown Heights North",174972,14.56,11.51
+"Brooklyn","Crown Heights North","Brooklyn","Stuyvesant Heights",174488,13.9,10.15
+"Queens","Flushing","Queens","Flushing",174262,11.34,8.43
+"Queens","Saint Albans","Queens","Saint Albans",172925,10.99,7.02
+"Manhattan","Central Harlem","Manhattan","Central Harlem North",172776,12.21,8.43
+"Manhattan","West Chelsea/Hudson Yards","N/A","Outside of NYC",172426,102.87,35.87
+"Brooklyn","Bedford","Brooklyn","Bedford",171884,11.92,8.27
+"Queens","Ridgewood","Queens","Ridgewood",169066,11.28,7.15
+"Manhattan","Washington Heights South","Manhattan","Washington Heights South",168804,11.42,7.15
+"Queens","Jamaica","Queens","South Jamaica",168241,11.93,9.08
+"Manhattan","Central Harlem North","Manhattan","Central Harlem",167554,12.52,8.59
+"Brooklyn","Canarsie","Brooklyn","East New York",166759,15.58,11.75
+"Brooklyn","Crown Heights North","Brooklyn","Prospect-Lefferts Gardens",165647,14.83,11.25
+"Queens","Jackson Heights","Queens","Elmhurst",164849,13.67,11.09
+"Bronx","Williamsbridge/Olinville","Bronx","Williamsbridge/Olinville",164400,10.53,6.8
+"Brooklyn","Bushwick North","Queens","Ridgewood",163541,12.39,8.11
+"Staten Island","Saint George/New Brighton","Staten Island","Saint George/New Brighton",162292,12.5,7.77
+"Brooklyn","Williamsburg (South Side)","Brooklyn","Williamsburg (North Side)",162029,13.27,8.09
+"Brooklyn","Greenpoint","Queens","Long Island City/Hunters Point",161715,14.31,9.46
+"Brooklyn","Sunset Park West","Brooklyn","Sunset Park West",161097,11.25,7.42
+"Manhattan","Union Sq","N/A","Outside of NYC",160680,107.78,40.91
+"Queens","Sunnyside","Queens","Sunnyside",158984,11.07,7.19
+"Brooklyn","Coney Island","Brooklyn","Coney Island",158502,10.89,7.02
+"Brooklyn","Brownsville","Brooklyn","East New York",157948,16.38,13.61
+"Queens","Elmhurst","Queens","Jackson Heights",157519,13.55,10.85
+"Brooklyn","East New York","Brooklyn","Brownsville",156163,16.15,13.77
+"Brooklyn","Stuyvesant Heights","Brooklyn","Stuyvesant Heights",155731,12.13,7.82
+"Queens","Long Island City/Hunters Point","Brooklyn","Greenpoint",153153,13.19,9.14
+"Bronx","Mott Haven/Port Morris","Bronx","Mott Haven/Port Morris",152438,11.63,7.97
+"Manhattan","Garment District","N/A","Outside of NYC",150952,95.81,35.43
+"Brooklyn","Bedford","Brooklyn","Crown Heights North",150463,14.18,10.64
+"Queens","Ridgewood","Brooklyn","Bushwick North",150386,12.25,8.3
+"Brooklyn","Crown Heights North","Brooklyn","Bedford",149851,14.14,10.43
+"Bronx","Soundview/Castle Hill","Bronx","Soundview/Castle Hill",149233,11.56,7.68
+"Brooklyn","East New York","Brooklyn","Canarsie",148557,15.79,12.16
+"Brooklyn","Bushwick North","Brooklyn","Bushwick North",148388,11.92,7.5
+"Brooklyn","East New York/Pennsylvania Avenue","Brooklyn","East New York",147709,12.15,9
+"Brooklyn","Bushwick South","Brooklyn","Stuyvesant Heights",147682,13.05,9.17
+"Manhattan","Midtown East","N/A","Outside of NYC",146649,127.74,46.68
+"Queens","Astoria","Queens","Old Astoria",144844,11.9,8.4
+"Manhattan","TriBeCa/Civic Center","N/A","Outside of NYC",144205,104.93,39.07
+"Queens","Old Astoria","Queens","Astoria",142685,12.28,8.8
+"Brooklyn","East New York","Brooklyn","East New York/Pennsylvania Avenue",142024,12.49,9.36
+"Manhattan","Midtown Center","Queens","LaGuardia Airport",141787,92.73,35.83
+"Manhattan","Midtown North","N/A","Outside of NYC",141743,127.69,45.07
+"Brooklyn","Stuyvesant Heights","Brooklyn","Bushwick South",140254,13.46,9.75
+"Manhattan","Penn Station/Madison Sq West","N/A","Outside of NYC",139933,101.98,38.68
+"Bronx","Williamsbridge/Olinville","N/A","Outside of NYC",139672,28.84,18.39
+"Queens","Richmond Hill","Queens","South Ozone Park",139225,12.79,8.94
+"Manhattan","Central Harlem North","Manhattan","East Harlem North",138705,13.61,9.92
+"Manhattan","Washington Heights North","Manhattan","Washington Heights South",138637,13.11,9.28
+"Brooklyn","Flatlands","Brooklyn","Flatlands",137771,11.66,7.58
+"Manhattan","Washington Heights North","Manhattan","Washington Heights North",136567,11.46,6.96
+"Queens","Richmond Hill","Queens","Richmond Hill",136542,11.02,7.2
+"Brooklyn","Sheepshead Bay","Brooklyn","Sheepshead Bay",136313,11.1,6.98
+"Queens","South Ozone Park","Queens","Richmond Hill",135760,12.99,9.39
+"Queens","Saint Albans","Queens","Jamaica",134873,18.13,14.43
+"Manhattan","Washington Heights South","Manhattan","Washington Heights North",134736,12.8,8.86
+"Manhattan","Midtown South","Queens","LaGuardia Airport",133713,83.53,30.03
+"Brooklyn","Williamsburg (North Side)","Brooklyn","East Williamsburg",133695,14.96,9.89
+"Manhattan","East Harlem North","Manhattan","East Harlem South",132921,12.51,9.09
+"Queens","Rosedale","N/A","Outside of NYC",132115,21.45,13.48
+"Brooklyn","Bay Ridge","Brooklyn","Sunset Park West",131650,14.76,10.33
+"Brooklyn","East New York","Brooklyn","Cypress Hills",131562,12.97,9.84
+"Queens","Queens Village","Queens","Queens Village",131090,10.91,6.62
+"Brooklyn","Bushwick South","Queens","Ridgewood",130818,15.51,11.11
+"Brooklyn","East Williamsburg","Brooklyn","Williamsburg (North Side)",130619,14.86,9.84
+"Brooklyn","Sunset Park West","Brooklyn","Bay Ridge",129933,14.84,10.31
+"Bronx","Schuylerville/Edgewater Park","Bronx","Schuylerville/Edgewater Park",129253,11.71,6.66
+"Manhattan","East Harlem South","Manhattan","East Harlem North",129249,11.99,8.11
+"Brooklyn","Flatlands","Brooklyn","Flatbush/Ditmas Park",128803,14.26,10.76
+"Brooklyn","Stuyvesant Heights","Brooklyn","Bedford",128305,12.93,9.01
+"Brooklyn","East Williamsburg","Brooklyn","Bushwick South",128236,15.43,10.94
+"Brooklyn","East Williamsburg","Brooklyn","Greenpoint",128136,15.35,10.56
+"Manhattan","East Village","N/A","Outside of NYC",127819,90.17,38.82
+"Brooklyn","Cypress Hills","Brooklyn","East New York",127768,12.84,10.02
+"Manhattan","West Village","N/A","Outside of NYC",127608,94.51,35.5
+"Manhattan","Murray Hill","N/A","Outside of NYC",127089,111.62,43.95
+"Manhattan","East Harlem North","Manhattan","East Harlem North",126659,11.61,8.04
+"Queens","Ridgewood","Brooklyn","Bushwick South",126264,14.97,11.15
+"Queens","LaGuardia Airport","Manhattan","Midtown South",125551,83.7,33.07
+"Queens","Baisley Park","Queens","Jamaica",125060,16.45,12.88
+"Brooklyn","Bedford","Brooklyn","Stuyvesant Heights",124782,12.66,8.75
+"Brooklyn","Williamsburg (South Side)","Brooklyn","Greenpoint",124130,16.82,11.61
+"Manhattan","East Harlem North","Manhattan","Central Harlem North",124014,13.74,10.47
+"Brooklyn","Bensonhurst West","Brooklyn","Bensonhurst West",123210,11.05,7.45
+"Manhattan","Central Harlem","Manhattan","East Harlem North",121088,12.42,9.29
+"Brooklyn","Flatlands","Brooklyn","Canarsie",121051,14.51,11.01
+"Brooklyn","Greenpoint","Brooklyn","Williamsburg (South Side)",119822,17.15,12.12
+"Queens","Queens Village","N/A","Outside of NYC",119636,29.24,18.04
+"Brooklyn","Bushwick South","Brooklyn","East Williamsburg",119552,15.15,11.02
+"Queens","Sunnyside","Queens","Astoria",118195,14.09,10.69
+"Manhattan","Midtown East","Queens","LaGuardia Airport",118070,81.11,30.09
+"Brooklyn","Bushwick South","Brooklyn","Crown Heights North",117799,19.09,15.4
+"Brooklyn","Greenpoint","Brooklyn","East Williamsburg",117131,15.12,10.55
+"Manhattan","Washington Heights South","N/A","Outside of NYC",116773,58.09,25.4
+"Queens","Far Rockaway","N/A","Outside of NYC",116491,28.02,17.9
+"Queens","South Ozone Park","Queens","Jamaica",116297,17.49,13.94
+"Manhattan","Upper East Side North","Manhattan","Upper East Side South",116152,22.68,9.96
+"Bronx","Co-Op City","Bronx","Co-Op City",115719,12.01,7.92
+"Manhattan","East Harlem North","Manhattan","Central Harlem",115077,12.38,9.23
+"Brooklyn","East Flatbush/Remsen Village","Brooklyn","Crown Heights North",113994,15.72,12.76
+"Bronx","Spuyten Duyvil/Kingsbridge","Bronx","Spuyten Duyvil/Kingsbridge",113639,11.2,6.59
+"Manhattan","Times Sq/Theatre District","Queens","JFK Airport",113121,131.96,59.13
+"Brooklyn","Bedford","Brooklyn","South Williamsburg",112501,11.86,9.27
+"Brooklyn","Bushwick North","Brooklyn","Stuyvesant Heights",111532,15.05,11.14
+"Manhattan","Upper East Side South","Manhattan","Upper East Side North",111352,21.62,9.11
+"Queens","Jamaica","Queens","Saint Albans",111306,17.89,14.75
+"Queens","LaGuardia Airport","Manhattan","Midtown Center",111300,97.7,39.82
+"Brooklyn","Park Slope","Brooklyn","Crown Heights North",111287,19.16,15.31
+"Brooklyn","East Flatbush/Remsen Village","Brooklyn","East Flatbush/Remsen Village",111154,11.51,7.9
+"Brooklyn","Brownsville","Brooklyn","Crown Heights North",110837,15.18,12.69
+"Queens","Astoria","Queens","Sunnyside",110644,14.58,11.08
+"Brooklyn","East Williamsburg","Brooklyn","East Williamsburg",110592,12.53,7.55
+"Brooklyn","Crown Heights North","Brooklyn","Bushwick South",109880,19.63,16.17
+"Bronx","Woodlawn/Wakefield","Bronx","Woodlawn/Wakefield",109851,10.46,6.32
+"Brooklyn","Crown Heights South","Brooklyn","Crown Heights North",109492,12.41,9.04
+"Manhattan","Central Harlem North","Manhattan","Hamilton Heights",109488,12.04,8.39
+"Bronx","Norwood","N/A","Outside of NYC",109467,30.99,18.59
+"Brooklyn","Canarsie","Brooklyn","East Flatbush/Remsen Village",109421,14.02,10.74
+"Queens","LaGuardia Airport","Manhattan","Midtown East",109350,84.41,32.62
+"Brooklyn","Flatbush/Ditmas Park","Brooklyn","Prospect-Lefferts Gardens",109154,14.69,11.96
+"Brooklyn","Bushwick South","Brooklyn","Bedford",109088,15.88,12.11
+"Queens","Rosedale","Queens","Rosedale",108717,10.4,6.46
+"Brooklyn","Williamsburg (North Side)","Brooklyn","Williamsburg (North Side)",108284,13.17,6.7
+"Manhattan","Lower East Side","N/A","Outside of NYC",108071,93.17,38.09
+"Queens","Hammels/Arverne","Queens","Hammels/Arverne",107751,11.38,7.21
+"Manhattan","Midtown North","Queens","LaGuardia Airport",107378,86.54,35.04
+"Queens","Jackson Heights","Queens","Woodside",107306,13.02,9.57
+"Bronx","Mott Haven/Port Morris","Bronx","Melrose South",106892,11.57,8.59
+"Brooklyn","Canarsie","Brooklyn","Flatlands",106817,14.76,11
+"Brooklyn","Bedford","Brooklyn","Bushwick South",106810,15.96,12.4
+"Manhattan","TriBeCa/Civic Center","Manhattan","TriBeCa/Civic Center",106667,21.71,7.83
+"Brooklyn","Flatbush/Ditmas Park","Brooklyn","Flatlands",106644,14.4,11.51
+"Bronx","Co-Op City","N/A","Outside of NYC",106613,30.14,18.82
+"Queens","Jamaica","Queens","Baisley Park",106158,16.3,12.95
+"Queens","Long Island City/Hunters Point","Queens","Sunnyside",106113,13.56,9.71
+"Manhattan","Upper East Side South","Manhattan","Upper East Side South",105662,23.52,8.9
+"Brooklyn","Ocean Hill","Brooklyn","Crown Heights North",105034,13.11,9.96
+"Queens","Rego Park","Queens","Forest Hills",105006,12.39,8.59
+"Brooklyn","East Flatbush/Remsen Village","Brooklyn","Canarsie",104976,14.32,11.09
+"Brooklyn","Prospect-Lefferts Gardens","Brooklyn","Flatbush/Ditmas Park",104729,15.02,12.04
+"Bronx","Eastchester","N/A","Outside of NYC",104715,24.45,15.9
+"Bronx","Melrose South","Bronx","Mott Haven/Port Morris",104311,11.76,8.76
+"Brooklyn","Stuyvesant Heights","Brooklyn","Bushwick North",103997,15.13,11.3
+"Manhattan","Murray Hill","Queens","LaGuardia Airport",103327,75.43,26.75
+"Queens","Corona","Queens","Elmhurst",102705,12.17,9.17
+"Manhattan","Central Harlem","Manhattan","Central Harlem",102692,11.75,7.12
+"Queens","Long Island City/Hunters Point","Queens","Astoria",102177,17.02,13.38
+"Queens","JFK Airport","Manhattan","Times Sq/Theatre District",102120,124.59,62.28
+"Brooklyn","East Flatbush/Farragut","Brooklyn","East Flatbush/Farragut",101785,11.78,7.7
+"Queens","Sunnyside","Queens","Long Island City/Hunters Point",101706,14.29,10.81
+"Brooklyn","Homecrest","Brooklyn","Homecrest",101689,10.88,7.13
+"Queens","Jackson Heights","Queens","Astoria",101676,16.91,13.51
+"Queens","Flushing","Queens","Murray Hill-Queens",101514,12.21,9.13
+"Queens","Murray Hill-Queens","Queens","Flushing",101433,12.48,9.58
+"Brooklyn","Crown Heights North","Brooklyn","Ocean Hill",101144,13.41,10.16
+"Brooklyn","Crown Heights North","Brooklyn","Park Slope",100428,20.06,15
+"Brooklyn","Crown Heights North","Brooklyn","Brownsville",100406,15.57,12.77
