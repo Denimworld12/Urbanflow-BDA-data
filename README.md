@@ -20,18 +20,41 @@ data/raw/        BRONZE: the immutable raw download from the NYC TLC, as publish
                  (fhvhv/year=2025/fhvhv_2025-MM.parquet + taxi_zone_lookup.csv + manifest.csv)
 data/curated/    SILVER: cleaned, enriched, zone-joined, partitioned by year/month
                  (fhvhv/year=2025/month=M/*.parquet + quality_report.json)
+                 + fhvhv_2025-MM_sample.csv: first 50,000 rows of each month, a SAMPLE only
 data/gold/       the 6 analysis tables + model_results.json + benchmarks.json
                  + duration_predictions (the Predict tab's precomputed grid)
+                 + <table>.csv next to every table: the COMPLETE table as CSV
 data/models/     the actual trained Spark ML pipeline (duration_gbt/)
+scripts/         export_full_csv.py: writes any table/month out as CSV locally
 ```
+
+### CSV versions
+
+* **Gold — full CSVs.** Every gold table has a complete CSV copy next to it
+  (`data/gold/daily_kpis.csv`, `demand_by_zone_hour.csv`, …, every row, the
+  same as the Parquet table). Open them in Excel, pandas, anything.
+* **Silver — labelled samples only.** `data/curated/fhvhv_2025-MM_sample.csv`
+  holds just the **first 50,000 rows** of that month (out of ~20M), so you can
+  look at real clean trips in a spreadsheet. They are **samples, not the full
+  month**. A full month as CSV is ~3.7 GB (CSV is ~7x bigger than Parquet), so
+  the complete CSVs would push this repo past 20 GB, and they are not committed.
+* **Full silver CSV on demand.** Generate the complete CSV for any month locally
+  (needs only `pyarrow`; ~15 s and ~3.7 GB per month):
+  ```bash
+  pip install -r requirements.txt
+  python scripts/export_full_csv.py data/curated/fhvhv/year=2025/month=1
+  # -> data/curated/fhvhv_2025-01_full.csv   (20,399,680 rows; git-ignored)
+  ```
+  The same script works on any Parquet file or folder here, e.g. a bronze
+  month: `python scripts/export_full_csv.py data/raw/fhvhv/year=2025/fhvhv_2025-01.parquet -o jan_raw.csv`.
 
 | Layer | Path | Contents | Rows | On disk |
 |---|---|---|---|---|
 | Bronze | `data/raw/` | FHVHV Jan–May 2025, as downloaded | 101,127,182 | 2.43 GB |
-| Silver | `data/curated/` | the same 5 months, cleaned + zone-joined | 101,099,657 | 2.61 GB |
-| Gold | `data/gold/` | 6 answer tables + model metrics + benchmarks, from all 12 months | 243.5M trips summarised | 227 KB |
+| Silver | `data/curated/` | the same 5 months, cleaned + zone-joined (+ 5 sample CSVs, 48 MB) | 101,099,657 | 2.66 GB |
+| Gold | `data/gold/` | 6 answer tables + model metrics + benchmarks, from all 12 months (+ full CSVs, 2.4 MB) | 243.5M trips summarised | 2.6 MB |
 | Models | `data/models/` | trained duration GBT pipeline, from all 12 months | — | 109 KB |
-| **Total** | `data/` | | | **5.04 GB** |
+| **Total** | `data/` | | | **5.09 GB** |
 
 **Which data this is:** Tier 2 of the code repo (`make ingest TIER=2` then
 `make curate TIER=2`), dataset `fhvhv`, i.e. 12 months of 2025, ~243.6M raw

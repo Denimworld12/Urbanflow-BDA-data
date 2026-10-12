@@ -1,0 +1,304 @@
+"pu_borough","pickup_hour","is_weekend","trips","avg_speed_mph","median_speed_mph"
+"Bronx",0,true,411310,16.59,14.45
+"Bronx",0,false,564038,16.76,14.49
+"Bronx",1,false,342547,17.19,14.79
+"Bronx",1,true,301960,16.96,14.72
+"Bronx",2,false,234713,18.13,15.65
+"Bronx",2,true,221816,17.55,15.25
+"Bronx",3,true,176293,18.49,16.26
+"Bronx",3,false,211417,20.32,18.46
+"Bronx",4,false,292312,21.46,20.36
+"Bronx",4,true,167208,19.42,17.46
+"Bronx",5,false,485298,19.83,18.54
+"Bronx",5,true,176446,20.32,18.94
+"Bronx",6,true,237196,20.25,19.08
+"Bronx",6,false,897425,16.37,14.7
+"Bronx",7,true,302053,19.35,17.73
+"Bronx",7,false,1478937,12.8,11.12
+"Bronx",8,true,333682,18.03,16.09
+"Bronx",8,false,1737375,12.16,10.63
+"Bronx",9,true,377748,16.8,14.62
+"Bronx",9,false,1310240,13.32,11.62
+"Bronx",10,false,1034357,13.65,11.78
+"Bronx",10,true,398166,15.85,13.61
+"Bronx",11,true,401366,15.07,12.98
+"Bronx",11,false,947846,13.59,11.67
+"Bronx",12,false,966652,13.3,11.4
+"Bronx",12,true,406524,14.47,12.48
+"Bronx",13,false,1034903,12.77,10.98
+"Bronx",13,true,424734,14.11,12.25
+"Bronx",14,false,1184590,11.66,10.1
+"Bronx",14,true,463371,13.7,11.93
+"Bronx",15,false,1205860,11.16,9.83
+"Bronx",15,true,481350,13.52,11.82
+"Bronx",16,true,464515,13.52,11.81
+"Bronx",16,false,1230069,10.95,9.67
+"Bronx",17,false,1319989,11.15,9.81
+"Bronx",17,true,469179,13.61,11.9
+"Bronx",18,true,476503,13.95,12.17
+"Bronx",18,false,1201366,12.52,10.89
+"Bronx",19,false,1084742,13.86,11.89
+"Bronx",19,true,477520,14.46,12.62
+"Bronx",20,true,467819,14.9,13.01
+"Bronx",20,false,987771,14.87,12.72
+"Bronx",21,false,918826,15.66,13.51
+"Bronx",21,true,454556,15.48,13.53
+"Bronx",22,false,905837,16.16,14.08
+"Bronx",22,true,448610,16.12,14.15
+"Bronx",23,true,430794,16.51,14.44
+"Bronx",23,false,849393,16.41,14.27
+"Brooklyn",0,false,1224586,14.06,12.53
+"Brooklyn",0,true,1255610,13.17,11.67
+"Brooklyn",1,true,999541,13.95,12.32
+"Brooklyn",1,false,746835,14.72,13.02
+"Brooklyn",2,true,749110,14.74,12.92
+"Brooklyn",2,false,512612,15.51,13.48
+"Brooklyn",3,true,579076,15.78,13.55
+"Brooklyn",3,false,445110,17.75,14.66
+"Brooklyn",4,false,577578,19.92,16.77
+"Brooklyn",4,true,450558,16.96,14.2
+"Brooklyn",5,true,353740,18.12,15.19
+"Brooklyn",5,false,824440,18.57,15.98
+"Brooklyn",6,false,1375822,15.3,13.14
+"Brooklyn",6,true,394762,17.9,14.97
+"Brooklyn",7,false,2124953,11.9,10.42
+"Brooklyn",7,true,495841,16.64,13.79
+"Brooklyn",8,false,2630964,10.74,9.54
+"Brooklyn",8,true,612517,15.06,12.65
+"Brooklyn",9,false,2359049,11.09,9.82
+"Brooklyn",9,true,757406,13.77,11.78
+"Brooklyn",10,true,868257,12.77,11.14
+"Brooklyn",10,false,1974094,11.14,9.86
+"Brooklyn",11,true,914858,12.17,10.75
+"Brooklyn",11,false,1847723,11.1,9.77
+"Brooklyn",12,false,1864638,10.97,9.67
+"Brooklyn",12,true,944641,11.66,10.4
+"Brooklyn",13,true,973470,11.38,10.19
+"Brooklyn",13,false,1921363,10.74,9.57
+"Brooklyn",14,true,1017476,11.1,10.01
+"Brooklyn",14,false,2131477,9.91,9.05
+"Brooklyn",15,false,2178289,9.59,8.85
+"Brooklyn",15,true,1045553,10.97,9.95
+"Brooklyn",16,true,1064363,10.96,9.95
+"Brooklyn",16,false,2288414,9.42,8.76
+"Brooklyn",17,true,1133227,11.02,10.01
+"Brooklyn",17,false,2596316,9.46,8.83
+"Brooklyn",18,false,2689642,10.22,9.43
+"Brooklyn",18,true,1189842,11.22,10.13
+"Brooklyn",19,false,2565964,11.13,10.07
+"Brooklyn",19,true,1182825,11.47,10.31
+"Brooklyn",20,false,2314785,11.89,10.62
+"Brooklyn",20,true,1141478,11.81,10.57
+"Brooklyn",21,true,1116438,12.28,10.94
+"Brooklyn",21,false,2250183,12.53,11.16
+"Brooklyn",22,false,2321062,12.91,11.55
+"Brooklyn",22,true,1141822,12.71,11.28
+"Brooklyn",23,true,1090899,13.01,11.53
+"Brooklyn",23,false,2054720,13.24,11.87
+"EWR",1,true,2,25,13.39
+"EWR",4,true,2,23.31,18
+"EWR",9,false,1,25.6,25.6
+"EWR",10,false,1,16.81,16.81
+"EWR",11,false,1,2.61,2.61
+"EWR",13,true,1,0.14,0.14
+"EWR",14,true,1,17,17
+"EWR",15,false,2,2.68,0.08
+"EWR",20,false,1,11.72,11.72
+"EWR",21,false,1,16.81,16.81
+"Manhattan",0,false,1838613,15.81,13.85
+"Manhattan",0,true,1559650,13.77,11.91
+"Manhattan",1,false,1153767,16.68,14.8
+"Manhattan",1,true,1332533,14.79,12.91
+"Manhattan",2,true,1027043,15.89,13.92
+"Manhattan",2,false,761849,17.54,15.57
+"Manhattan",3,true,750724,17.47,15.25
+"Manhattan",3,false,588082,19.98,17.55
+"Manhattan",4,false,730832,23.47,23.9
+"Manhattan",4,true,528937,19.89,17.71
+"Manhattan",5,false,967216,21.86,21.94
+"Manhattan",5,true,371551,21.81,21.01
+"Manhattan",6,true,420891,21.24,19.82
+"Manhattan",6,false,1620733,17.51,15.15
+"Manhattan",7,true,526309,20.11,18
+"Manhattan",7,false,2555563,13.55,11.27
+"Manhattan",8,true,670246,17.88,14.98
+"Manhattan",8,false,3337577,11.41,9.33
+"Manhattan",9,false,3107946,11.16,8.98
+"Manhattan",9,true,881267,15.76,12.91
+"Manhattan",10,false,2655358,11.28,8.98
+"Manhattan",10,true,1078732,14.23,11.61
+"Manhattan",11,false,2632338,11.22,8.84
+"Manhattan",11,true,1208972,13.26,10.83
+"Manhattan",12,true,1259914,12.61,10.36
+"Manhattan",12,false,2684526,11.3,9
+"Manhattan",13,true,1273508,12.15,10.02
+"Manhattan",13,false,2746431,11.25,9.11
+"Manhattan",14,true,1266302,11.95,9.91
+"Manhattan",14,false,2847290,10.69,8.89
+"Manhattan",15,false,2975259,9.97,8.61
+"Manhattan",15,true,1286336,11.59,9.73
+"Manhattan",16,false,3164834,9.64,8.55
+"Manhattan",16,true,1351408,11.21,9.49
+"Manhattan",17,false,3689174,9.61,8.54
+"Manhattan",17,true,1462738,11.06,9.4
+"Manhattan",18,true,1542621,11.12,9.47
+"Manhattan",18,false,4063994,10.37,8.96
+"Manhattan",19,false,4025221,11.78,9.85
+"Manhattan",19,true,1542627,11.25,9.62
+"Manhattan",20,true,1451407,11.82,10.15
+"Manhattan",20,false,4032737,13.2,10.83
+"Manhattan",21,false,4046692,13.97,11.54
+"Manhattan",21,true,1442700,12.41,10.72
+"Manhattan",22,true,1457675,12.91,11.19
+"Manhattan",22,false,3783788,14.05,11.87
+"Manhattan",23,false,3107097,14.32,12.34
+"Manhattan",23,true,1315410,13.53,11.7
+"N/A",0,true,102,21.77,20.76
+"N/A",0,false,146,21.22,20.46
+"N/A",1,false,117,20.12,18.68
+"N/A",1,true,97,22.02,20.47
+"N/A",2,false,67,21.06,18.94
+"N/A",2,true,88,23.39,21.04
+"N/A",3,false,79,24.2,23.78
+"N/A",3,true,56,22.96,21.57
+"N/A",4,false,80,24.77,26.8
+"N/A",4,true,54,24.24,22.62
+"N/A",5,true,56,22.84,20.4
+"N/A",5,false,177,19.33,16.75
+"N/A",6,true,79,20.43,19.57
+"N/A",6,false,340,19.65,17.98
+"N/A",7,false,343,15.7,14.6
+"N/A",7,true,84,22.57,20.83
+"N/A",8,true,129,19.79,17.85
+"N/A",8,false,447,15.86,14.68
+"N/A",9,true,108,18.99,18
+"N/A",9,false,429,17.71,16.79
+"N/A",10,true,137,18.92,16.7
+"N/A",10,false,281,16.81,15.69
+"N/A",11,true,136,17.18,15.79
+"N/A",11,false,302,17.38,15.77
+"N/A",12,false,393,17.86,16.19
+"N/A",12,true,155,18.02,16.43
+"N/A",13,false,426,16.91,15.59
+"N/A",13,true,182,17.05,15.48
+"N/A",14,false,462,16.63,15.07
+"N/A",14,true,190,17.77,16.85
+"N/A",15,true,194,17.22,16.7
+"N/A",15,false,440,15.94,14.59
+"N/A",16,true,163,18.11,17.34
+"N/A",16,false,394,15.85,14.46
+"N/A",17,false,483,14.73,13.71
+"N/A",17,true,148,16.9,15.65
+"N/A",18,true,186,17.68,16.53
+"N/A",18,false,492,16.58,15.52
+"N/A",19,false,359,18.36,17.32
+"N/A",19,true,173,18.9,17.2
+"N/A",20,true,161,19.88,18.1
+"N/A",20,false,346,21.99,18.61
+"N/A",21,false,265,21.01,19.23
+"N/A",21,true,122,20,18.13
+"N/A",22,false,210,20.7,18.71
+"N/A",22,true,119,20.63,19.24
+"N/A",23,true,146,22.29,22.55
+"N/A",23,false,214,21.19,19.23
+"Queens",0,false,1075511,20.96,19.51
+"Queens",0,true,691712,18.02,15.41
+"Queens",1,true,516115,18,15.27
+"Queens",1,false,629743,20.55,18.32
+"Queens",2,true,395129,18.32,15.61
+"Queens",2,false,419107,20.41,17.94
+"Queens",3,true,351775,19.13,16.75
+"Queens",3,false,396778,21.02,19.55
+"Queens",4,false,578195,21.11,19.88
+"Queens",4,true,367602,19.54,17.54
+"Queens",5,false,848158,19.72,18.2
+"Queens",5,true,342635,20.22,18.29
+"Queens",6,true,406146,20.75,18.87
+"Queens",6,false,1362504,16.68,15.07
+"Queens",7,false,2037312,13.5,12.05
+"Queens",7,true,469124,20.26,18.28
+"Queens",8,true,547972,18.77,16.42
+"Queens",8,false,2363840,12.95,11.56
+"Queens",9,false,1999168,14.31,12.62
+"Queens",9,true,650571,17.51,15.17
+"Queens",10,true,725574,16.58,14.45
+"Queens",10,false,1765068,14.83,13.07
+"Queens",11,false,1602918,14.89,13.16
+"Queens",11,true,725285,15.65,13.73
+"Queens",12,false,1616954,14.84,13.19
+"Queens",12,true,737052,15.01,13.27
+"Queens",13,true,761602,14.59,13.01
+"Queens",13,false,1704695,14.24,12.75
+"Queens",14,false,1955116,12.81,11.67
+"Queens",14,true,808817,14.4,12.99
+"Queens",15,true,832071,14.4,12.98
+"Queens",15,false,1955859,12.44,11.43
+"Queens",16,false,1984339,12.42,11.38
+"Queens",16,true,828899,14.51,13.06
+"Queens",17,true,832711,14.58,13
+"Queens",17,false,2072601,12.54,11.35
+"Queens",18,false,2051591,13.77,12.2
+"Queens",18,true,850057,15.07,13.32
+"Queens",19,false,1927955,15.52,13.42
+"Queens",19,true,837557,15.75,13.8
+"Queens",20,false,1780551,17.14,14.84
+"Queens",20,true,811147,16.49,14.46
+"Queens",21,true,791343,17.3,15.21
+"Queens",21,false,1705764,18.15,16
+"Queens",22,true,792231,18.08,15.97
+"Queens",22,false,1685751,18.52,16.52
+"Queens",23,true,751956,19.07,16.83
+"Queens",23,false,1525653,19.27,17.28
+"Staten Island",0,false,48983,19.72,17.81
+"Staten Island",0,true,40723,20.01,18.2
+"Staten Island",1,true,31116,20.03,18.23
+"Staten Island",1,false,30030,20.26,18.15
+"Staten Island",2,false,21579,20.82,18.5
+"Staten Island",2,true,22781,20.32,18.37
+"Staten Island",3,true,18127,21.26,18.8
+"Staten Island",3,false,21339,23.3,20.23
+"Staten Island",4,true,16283,22.47,19.77
+"Staten Island",4,false,32235,24.07,21.23
+"Staten Island",5,false,56723,22.35,20.03
+"Staten Island",5,true,18877,22.24,19.72
+"Staten Island",6,false,101893,19.12,17.5
+"Staten Island",6,true,29137,21.56,19.3
+"Staten Island",7,true,36358,20.43,18.36
+"Staten Island",7,false,165479,16.01,14.74
+"Staten Island",8,false,215409,15.79,14.68
+"Staten Island",8,true,40633,19.49,17.43
+"Staten Island",9,false,167900,16.87,15.6
+"Staten Island",9,true,45737,18.32,16.53
+"Staten Island",10,true,48024,17.55,15.88
+"Staten Island",10,false,138869,17.06,15.63
+"Staten Island",11,false,134886,17.04,15.53
+"Staten Island",11,true,50476,16.83,15.37
+"Staten Island",12,true,52020,16.35,15
+"Staten Island",12,false,136946,16.79,15.25
+"Staten Island",13,true,52891,16.15,14.9
+"Staten Island",13,false,148350,16.27,14.82
+"Staten Island",14,true,57514,16.28,15.08
+"Staten Island",14,false,177105,14.94,13.69
+"Staten Island",15,true,57962,16.45,15.18
+"Staten Island",15,false,176112,14.89,13.74
+"Staten Island",16,false,171534,14.98,13.87
+"Staten Island",16,true,56327,16.77,15.47
+"Staten Island",17,false,178322,15.1,14.08
+"Staten Island",17,true,58099,17.14,15.8
+"Staten Island",18,true,56873,17.49,16.06
+"Staten Island",18,false,154654,16.01,14.88
+"Staten Island",19,true,52775,17.9,16.39
+"Staten Island",19,false,127318,17.05,15.54
+"Staten Island",20,false,110350,17.79,16.09
+"Staten Island",20,true,49505,18.31,16.68
+"Staten Island",21,false,99541,18.43,16.71
+"Staten Island",21,true,45597,18.79,17.01
+"Staten Island",22,false,92145,18.78,17.11
+"Staten Island",22,true,43039,19.3,17.55
+"Staten Island",23,false,79443,19.21,17.54
+"Staten Island",23,true,40342,19.81,17.96
+"Unknown",5,false,1,13.8,13.8
+"Unknown",9,false,1,19.48,19.48
+"Unknown",18,false,1,12.09,12.09
+"Unknown",19,false,1,8.22,8.22
+"Unknown",23,false,1,14.76,14.76

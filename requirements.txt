@@ -1,0 +1,2 @@
+# Only needed for scripts/export_full_csv.py (same pin as the code repo).
+pyarrow>=17.0.0
