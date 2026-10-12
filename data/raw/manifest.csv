@@ -1,0 +1,6 @@
+dataset,year,month,file,bytes,rows,downloaded_at
+fhvhv,2025,1,data/raw/fhvhv/year=2025/fhvhv_2025-01.parquet,491076642,20405666,2026-10-12T20:48:31
+fhvhv,2025,2,data/raw/fhvhv/year=2025/fhvhv_2025-02.parquet,461632254,19339461,2026-10-12T20:51:39
+fhvhv,2025,3,data/raw/fhvhv/year=2025/fhvhv_2025-03.parquet,501783767,20536879,2026-10-12T20:54:37
+fhvhv,2025,4,data/raw/fhvhv/year=2025/fhvhv_2025-04.parquet,487219586,19753983,2026-10-12T20:57:50
+fhvhv,2025,5,data/raw/fhvhv/year=2025/fhvhv_2025-05.parquet,517386544,21091193,2026-10-12T21:00:57
