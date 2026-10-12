@@ -1,0 +1,267 @@
+[
+  {
+    "dataset": "fhvhv",
+    "year": 2025,
+    "month": 1,
+    "rows_in": 20405666,
+    "rows_out": 20399680,
+    "removed": 5986,
+    "removed_pct": 0.029,
+    "rules": [
+      {
+        "rule": "out_of_month",
+        "reason": "pickup timestamp outside the file's own month (real TLC files carry stray 2001 and 2098 records)",
+        "rows_removed": 0,
+        "pct": 0.0
+      },
+      {
+        "rule": "dropoff_before_pickup",
+        "reason": "journey ends before it starts",
+        "rows_removed": 4,
+        "pct": 0.0
+      },
+      {
+        "rule": "duration_out_of_range",
+        "reason": "under 60s or over 6h",
+        "rows_removed": 1424,
+        "pct": 0.007
+      },
+      {
+        "rule": "distance_out_of_range",
+        "reason": "zero, negative, or over 100 miles",
+        "rows_removed": 4086,
+        "pct": 0.02
+      },
+      {
+        "rule": "negative_money",
+        "reason": "negative fare or total",
+        "rows_removed": 751,
+        "pct": 0.004
+      },
+      {
+        "rule": "impossible_speed",
+        "reason": "implied speed over 90 mph \u2014 not possible in New York traffic",
+        "rows_removed": 6,
+        "pct": 0.0
+      },
+      {
+        "rule": "zero_passengers",
+        "reason": "no passengers recorded",
+        "rows_removed": 0,
+        "pct": 0.0
+      }
+    ]
+  },
+  {
+    "dataset": "fhvhv",
+    "year": 2025,
+    "month": 2,
+    "rows_in": 19339461,
+    "rows_out": 19334567,
+    "removed": 4894,
+    "removed_pct": 0.025,
+    "rules": [
+      {
+        "rule": "out_of_month",
+        "reason": "pickup timestamp outside the file's own month (real TLC files carry stray 2001 and 2098 records)",
+        "rows_removed": 0,
+        "pct": 0.0
+      },
+      {
+        "rule": "dropoff_before_pickup",
+        "reason": "journey ends before it starts",
+        "rows_removed": 4,
+        "pct": 0.0
+      },
+      {
+        "rule": "duration_out_of_range",
+        "reason": "under 60s or over 6h",
+        "rows_removed": 1338,
+        "pct": 0.007
+      },
+      {
+        "rule": "distance_out_of_range",
+        "reason": "zero, negative, or over 100 miles",
+        "rows_removed": 3748,
+        "pct": 0.019
+      },
+      {
+        "rule": "negative_money",
+        "reason": "negative fare or total",
+        "rows_removed": 97,
+        "pct": 0.001
+      },
+      {
+        "rule": "impossible_speed",
+        "reason": "implied speed over 90 mph \u2014 not possible in New York traffic",
+        "rows_removed": 7,
+        "pct": 0.0
+      },
+      {
+        "rule": "zero_passengers",
+        "reason": "no passengers recorded",
+        "rows_removed": 0,
+        "pct": 0.0
+      }
+    ]
+  },
+  {
+    "dataset": "fhvhv",
+    "year": 2025,
+    "month": 3,
+    "rows_in": 20536879,
+    "rows_out": 20531806,
+    "removed": 5073,
+    "removed_pct": 0.025,
+    "rules": [
+      {
+        "rule": "out_of_month",
+        "reason": "pickup timestamp outside the file's own month (real TLC files carry stray 2001 and 2098 records)",
+        "rows_removed": 0,
+        "pct": 0.0
+      },
+      {
+        "rule": "dropoff_before_pickup",
+        "reason": "journey ends before it starts",
+        "rows_removed": 4,
+        "pct": 0.0
+      },
+      {
+        "rule": "duration_out_of_range",
+        "reason": "under 60s or over 6h",
+        "rows_removed": 1589,
+        "pct": 0.008
+      },
+      {
+        "rule": "distance_out_of_range",
+        "reason": "zero, negative, or over 100 miles",
+        "rows_removed": 3716,
+        "pct": 0.018
+      },
+      {
+        "rule": "negative_money",
+        "reason": "negative fare or total",
+        "rows_removed": 105,
+        "pct": 0.001
+      },
+      {
+        "rule": "impossible_speed",
+        "reason": "implied speed over 90 mph \u2014 not possible in New York traffic",
+        "rows_removed": 13,
+        "pct": 0.0
+      },
+      {
+        "rule": "zero_passengers",
+        "reason": "no passengers recorded",
+        "rows_removed": 0,
+        "pct": 0.0
+      }
+    ]
+  },
+  {
+    "dataset": "fhvhv",
+    "year": 2025,
+    "month": 4,
+    "rows_in": 19753983,
+    "rows_out": 19748871,
+    "removed": 5112,
+    "removed_pct": 0.026,
+    "rules": [
+      {
+        "rule": "out_of_month",
+        "reason": "pickup timestamp outside the file's own month (real TLC files carry stray 2001 and 2098 records)",
+        "rows_removed": 0,
+        "pct": 0.0
+      },
+      {
+        "rule": "dropoff_before_pickup",
+        "reason": "journey ends before it starts",
+        "rows_removed": 3,
+        "pct": 0.0
+      },
+      {
+        "rule": "duration_out_of_range",
+        "reason": "under 60s or over 6h",
+        "rows_removed": 1616,
+        "pct": 0.008
+      },
+      {
+        "rule": "distance_out_of_range",
+        "reason": "zero, negative, or over 100 miles",
+        "rows_removed": 3764,
+        "pct": 0.019
+      },
+      {
+        "rule": "negative_money",
+        "reason": "negative fare or total",
+        "rows_removed": 88,
+        "pct": 0.0
+      },
+      {
+        "rule": "impossible_speed",
+        "reason": "implied speed over 90 mph \u2014 not possible in New York traffic",
+        "rows_removed": 7,
+        "pct": 0.0
+      },
+      {
+        "rule": "zero_passengers",
+        "reason": "no passengers recorded",
+        "rows_removed": 0,
+        "pct": 0.0
+      }
+    ]
+  },
+  {
+    "dataset": "fhvhv",
+    "year": 2025,
+    "month": 5,
+    "rows_in": 21091193,
+    "rows_out": 21084733,
+    "removed": 6460,
+    "removed_pct": 0.031,
+    "rules": [
+      {
+        "rule": "out_of_month",
+        "reason": "pickup timestamp outside the file's own month (real TLC files carry stray 2001 and 2098 records)",
+        "rows_removed": 0,
+        "pct": 0.0
+      },
+      {
+        "rule": "dropoff_before_pickup",
+        "reason": "journey ends before it starts",
+        "rows_removed": 5,
+        "pct": 0.0
+      },
+      {
+        "rule": "duration_out_of_range",
+        "reason": "under 60s or over 6h",
+        "rows_removed": 2260,
+        "pct": 0.011
+      },
+      {
+        "rule": "distance_out_of_range",
+        "reason": "zero, negative, or over 100 miles",
+        "rows_removed": 4585,
+        "pct": 0.022
+      },
+      {
+        "rule": "negative_money",
+        "reason": "negative fare or total",
+        "rows_removed": 170,
+        "pct": 0.001
+      },
+      {
+        "rule": "impossible_speed",
+        "reason": "implied speed over 90 mph \u2014 not possible in New York traffic",
+        "rows_removed": 10,
+        "pct": 0.0
+      },
+      {
+        "rule": "zero_passengers",
+        "reason": "no passengers recorded",
+        "rows_removed": 0,
+        "pct": 0.0
+      }
+    ]
+  }
+]
